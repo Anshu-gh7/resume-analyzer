@@ -1,0 +1,7 @@
+python
+java
+c
+react
+machine learning
+nlp
+sql
